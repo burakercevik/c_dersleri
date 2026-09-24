@@ -1,0 +1,4 @@
+program
+*.out
+*.dSYM/
+.DS_Store
